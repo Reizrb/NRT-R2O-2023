@@ -6,5 +6,5 @@ This GitHub tries to represent the outcome of _"Estimation of Maximum Annual Pea
 ![AWRA poster_Final-1](https://github.com/Reizrb/NRT-R2O-2023/assets/133435701/2b4d0a5e-e239-4b28-85a9-3835c7d68ec7)
 
 <div align="center">
-    The poster presented for The American Water Resources Association (AWRA) Spring Meeting 2023, Tuscaloosa, AL. 
+    The presented poster for the American Water Resources Association (AWRA) Spring Meeting 2024, Tuscaloosa, AL. 
 </div>
